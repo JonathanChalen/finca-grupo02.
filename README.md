@@ -43,6 +43,6 @@ Durante el desarrollo se presentó un inconveniente al configurar la dirección 
 
 ## 7. Repositorio
 
-Enlace: https://github.com/JonathanChalen/finca-grupo02.
+Enlace: [Repositorio Finca - Grupo 02](https://github.com/JonathanChalen/finca-grupo02.)
 
 El repositorio es privado y el acceso depende de los permisos concedidos a sus colaboradores.
